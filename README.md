@@ -74,7 +74,9 @@ drug-likeness-pipeline/
 ```
 ---
 
-🚀 Usage
+## 🚀 Usage
+
+BATCH SCREENING:
 
 1. Prepare Input Data
 
@@ -104,7 +106,7 @@ and execute all cells.
 
 3. Output
 
-The pipeline generates:
+The Batch Screening generates:
 
 results.xlsx
 
@@ -115,6 +117,9 @@ containing:
 - Veber results
 - Ghose results
 - Overall drug-likeness assessment
+
+  note :
+  you can use the pipline pathway to calculate your single molecule's descriptors and the rules . 
 
 ---
 
