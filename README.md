@@ -40,8 +40,6 @@ Processing Modes
 
 - Single-molecule analysis
 - Batch screening from CSV files
-- Automated descriptor calculation
-- Excel export of results
 
 ---
 
