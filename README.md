@@ -53,8 +53,8 @@ Processing Modes
 
 ---
 
-📂 Project Structure
-
+## 📂 Project Structure
+```bash
 drug-likeness-pipeline/
 │
 ├── README.md
@@ -70,8 +70,8 @@ drug-likeness-pipeline/
 │   └── molecules.csv
 │
 ├── results/
-│   └── results.xlsx
-
+   └── results.xlsx
+```
 ---
 
 🚀 Usage
